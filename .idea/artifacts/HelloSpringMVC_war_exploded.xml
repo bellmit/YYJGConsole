@@ -16,7 +16,6 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.1.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.1.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.1.4.RELEASE" />
-          <element id="library" level="project" name="Maven: com.oracle:mysql:5.0.8.RELEASE" />
         </element>
       </element>
       <element id="directory" name="META-INF">

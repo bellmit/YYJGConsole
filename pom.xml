@@ -47,11 +47,7 @@
       <version>4.1.4.RELEASE</version>
     </dependency>
 
-    <dependency>
-      <groupId>com.oracle</groupId>
-      <artifactId>mysql</artifactId>
-      <version>5.0.8.RELEASE</version>
-    </dependency>
+
 
 
   </dependencies>
